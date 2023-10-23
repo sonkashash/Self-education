@@ -1,2 +1,2 @@
 # Self-education
-Здесь лежат различные учебный проекты
+Here are various projects that are carried out during the learning process.
