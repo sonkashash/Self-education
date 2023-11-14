@@ -4,7 +4,7 @@
 1. **Menu-page for burger restaurant** 
  Here I learned the basics of layout, using classes.
 ************
- 2. **Main page for bakery (at the stage of finalization)**
+ 1. **Main page for bakery**
   Here I learned:
  * How to use normalize.css and reset.css files
  * How to embed a map 
